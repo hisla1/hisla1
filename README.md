@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Poca
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Penetration Testing
 - 📫 How to reach me twitch.tv/itspoca
 
 <!---
